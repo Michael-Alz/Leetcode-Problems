@@ -1,4 +1,4 @@
-# Day 2 | 977 Squares of a Sorted Array| 209 Minimum Size Subarray Sum | 59 Spiral Matrix II
+# Day 02 | 977 Squares of a Sorted Array| 209 Minimum Size Subarray Sum | 59 Spiral Matrix II
 
 ## 977 Squares of a Sorted Array
 
