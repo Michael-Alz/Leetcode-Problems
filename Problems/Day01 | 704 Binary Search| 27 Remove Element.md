@@ -15,7 +15,9 @@
 
 ##  704. Binary Search
 
-https://leetcode.com/problems/binary-search/
+Problem: https://leetcode.com/problems/binary-search/
+
+Solution: [https://programmercarl.com/0704.%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE.html](https://programmercarl.com/0704.二分查找.html)
 
 写二分法，区间的定义一般为两种，左闭右闭即[left, right]，或者左闭右开即[left, right)。
 
@@ -65,7 +67,9 @@ class Solution:
 
 ## 27.Remove Element
 
-https://leetcode.com/problems/remove-element/description/
+Problem: https://leetcode.com/problems/remove-element/description/
+
+Solution: https://programmercarl.com/0027.%E7%A7%BB%E9%99%A4%E5%85%83%E7%B4%A0.html
 
 ### 双指针法
 
@@ -98,4 +102,6 @@ class Solution:
             fast += 1
         return slow
 ~~~
+
+
 
