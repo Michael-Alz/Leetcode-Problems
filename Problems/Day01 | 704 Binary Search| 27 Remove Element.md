@@ -1,4 +1,4 @@
-# Day01 | 704 Binary Search| 27 Remove Element
+# Day 01 | 704 Binary Search| 27 Remove Element
 
 ## 数组基础
 
