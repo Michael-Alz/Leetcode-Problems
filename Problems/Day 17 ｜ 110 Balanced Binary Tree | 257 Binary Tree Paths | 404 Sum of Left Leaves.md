@@ -1,4 +1,4 @@
-# Day 17 ｜ 110 Balanced Binary Tree | 257 Binary Tree Paths | 404 Sum of Left Leaves
+# Day 17 | 110 Balanced Binary Tree | 257 Binary Tree Paths | 404 Sum of Left Leaves
 
 ## 110 Balanced Binary Tree
 
